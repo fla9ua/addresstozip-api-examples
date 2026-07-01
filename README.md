@@ -9,9 +9,12 @@
 
 | 言語 | ディレクトリ |
 | --- | --- |
+| curl | [`curl/`](./curl) |
 | Node.js | [`node/`](./node) |
-
-(他言語のサンプルは順次追加予定です)
+| Python | [`python/`](./python) |
+| PHP | [`php/`](./php) |
+| Ruby | [`ruby/`](./ruby) |
+| Go | [`go/`](./go) |
 
 ## APIについて
 
